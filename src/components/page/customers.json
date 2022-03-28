@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_page_customers",
+  "info": {
+    "displayName": "customers",
+    "icon": "address-book"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "default": "Customers"
+    }
+  }
+}
